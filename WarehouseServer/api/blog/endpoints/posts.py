@@ -10,7 +10,7 @@ from WarehouseServer.database.models import Post
 
 log = logging.getLogger(__name__)
 
-ns = api.namespace('blog/posts', description='Operations related to blog posts')
+ns = api.namespace('api/warehouse', description='Operations related to warehouse')
 
 
 @ns.route('/')
