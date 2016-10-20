@@ -1,3 +1,4 @@
-# Warehouse server application
+Warehouse server application
+=============
 
-This application has been created for passing bachelor of engineering. REST API is available at API.md.
+This repository contains boilerplate code for a RESTful API based on Flask and Flask-RESTPlus. It has been created for passing bachelor of engineering at Wroclaw University of Technology.
